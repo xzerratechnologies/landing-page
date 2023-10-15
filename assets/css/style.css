@@ -2557,8 +2557,9 @@ textarea.w-select {
 .heading {
   width: 800px;
   color: #eeeaea;
-  font-size: 80px;
+  font-size: 60px;
   font-weight: 700;
+  justify-content: center;
 }
 
 .image {
@@ -2819,7 +2820,7 @@ textarea.w-select {
   }
 
   .heading {
-    width: 200px;
+    width: 90%;
     font-size: 40px;
   }
 }
@@ -2879,6 +2880,7 @@ textarea.w-select {
 @media screen and (max-width: 425px) {
   h1.heading {
     font-size: 36px;
+    justify-content: center;
   }
 
   .margin-bottom-18px {
