@@ -271,7 +271,7 @@ html {
 body {
   min-height: 100%;
   color: #333;
-  background-color: #fff;
+  background-color: #eeeaea;
   margin: 0;
   font-family: Arial, sans-serif;
   font-size: 14px;
@@ -313,7 +313,7 @@ html.w-mod-touch * {
 }
 
 .w-button {
-  color: #fff;
+  color: #eeeaea;
   line-height: inherit;
   cursor: pointer;
   background-color: #3898ec;
