@@ -2560,6 +2560,7 @@ textarea.w-select {
   font-size: 60px;
   font-weight: 700;
   justify-content: center;
+  letter-spacing: 20px;
 }
 
 .image {
@@ -2820,7 +2821,7 @@ textarea.w-select {
   }
 
   .heading {
-    width: 90%;
+    width: 100%;
     font-size: 40px;
   }
 }
@@ -2882,10 +2883,11 @@ textarea.w-select {
   justify-content: center;
   font-family: Lexend Exa, sans-serif;
 }
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 435px) {
   h1.heading {
-    font-size: 36px;
+    font-size: 45px;
     justify-content: center;
+    letter-spacing: normal;
   }
 
   .margin-bottom-18px {
