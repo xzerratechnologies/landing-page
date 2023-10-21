@@ -2823,6 +2823,7 @@ textarea.w-select {
   .heading {
     width: 100%;
     font-size: 40px;
+    color: #eeeaea;
   }
 }
 
@@ -2870,12 +2871,12 @@ textarea.w-select {
 /* CUSTOM STYLING */
 .margin-bottom-18px {
   margin-bottom: 18px;
-  font-size: 24px;
-  color: #eeeaea;
+
 }
 
 .hero-wrapper-two > .questions {
   margin: 50px 0;
+  color: #eeeaea;
 }
 
 .hashtag-text{
