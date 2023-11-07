@@ -2872,7 +2872,6 @@ textarea.w-select {
 .margin-bottom-18px {
   margin-bottom: 18px;
   font-size: 24px;
-
 }
 
 .hero-wrapper-two > .questions {
@@ -2880,11 +2879,19 @@ textarea.w-select {
   color: #eeeaea;
 }
 
-.hashtag-text{
-  display:flex;
+.hashtag-text {
+  display: flex;
   justify-content: center;
   font-family: Lexend Exa, sans-serif;
 }
+
+.banner {
+  text-align: center;
+  padding: 20px;
+  font-family: "Lexend Exa";
+  background-color: #c75ae2;
+}
+
 @media screen and (max-width: 435px) {
   h1.heading {
     font-size: 45px;
