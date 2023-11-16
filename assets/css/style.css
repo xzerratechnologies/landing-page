@@ -2892,6 +2892,11 @@ textarea.w-select {
   background-color: #c75ae2;
 }
 
+.privacy {
+  width: 60%;
+  margin: 0 auto;
+}
+
 @media screen and (max-width: 435px) {
   h1.heading {
     font-size: 45px;
