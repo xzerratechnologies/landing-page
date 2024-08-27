@@ -3673,7 +3673,7 @@ p {
 
   .footer-logo-wrapper,
   .footer-link-box {
-    margin-bottom: 2.5em;
+    margin-bottom: 1.5em;
   }
 
   .footer-link-box.last {
@@ -4072,4 +4072,14 @@ p {
   font-weight: 100;
   font-style: normal;
   font-display: swap;
+}
+
+/* CUSTOM STYLING */
+#socials {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#x {
+  margin: 0 20px;
 }
