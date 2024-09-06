@@ -2600,6 +2600,8 @@ p {
   padding-top: 4.375em;
   font-style: italic;
   line-height: 1.5em;
+  position: absolute;
+  width: 100%;
 }
 
 .footer-image {
