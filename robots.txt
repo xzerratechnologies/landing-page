@@ -3,4 +3,4 @@ User-agent: *
 Disallow:
 
 # Sitemap location (if applicable)
-Sitemap: https://www.yourwebsite.com/sitemap.xml
+Sitemap: https://www.paywithxzerra.com/xzerra-sitemap.xml
