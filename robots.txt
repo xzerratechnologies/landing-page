@@ -2,5 +2,5 @@
 User-agent: *
 Disallow:
 
-# Sitemap location (if applicable)
+# Sitemap location
 Sitemap: https://www.paywithxzerra.com/xzerra-sitemap.xml
