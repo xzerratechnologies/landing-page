@@ -2286,12 +2286,22 @@ p {
 .bg-trans {
   background-color: rgba(0, 0, 0, 0);
 }
+.span-beta{
+  font-size: small;
+  background: #121212;
+  padding: 4px;
+  color: #eeeaea;
+  border-radius: 2px;
 
+}
 .navbar {
   width: 100%;
   padding-top: 2em;
   padding-bottom: 2em;
-  position: absolute;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background-color: #121212;
 }
 
 .logo-nav {
@@ -3540,6 +3550,12 @@ p {
     grid-auto-columns: 1fr;
     display: grid;
   }
+  .span-beta {
+  font-size: 12px;
+  padding: 2px;
+  border-radius: 2px;
+
+}
 }
 
 @media screen and (max-width: 767px) {
@@ -3919,6 +3935,12 @@ p {
     align-items: center;
     display: grid;
   }
+  .span-beta {
+  font-size: 12px;
+  padding: 2px;
+  border-radius: 2px;
+
+}
 }
 
 @media screen and (max-width: 479px) {
